@@ -1,4 +1,12 @@
 body {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
   background-color: black;
   color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
 }
